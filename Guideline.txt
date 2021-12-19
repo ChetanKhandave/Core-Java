@@ -9,3 +9,7 @@ Guideline 2C
 Guideline 3A
 Guideline 3B
 Guideline 3C
+
+Guideline 10A
+Guideline 10B
+Guideline 10C
