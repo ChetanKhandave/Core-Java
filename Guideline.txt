@@ -5,3 +5,7 @@ Guideline 1C
 Guideline 2A
 Guideline 2B
 Guideline 2C
+
+Guideline 3A
+Guideline 3B
+Guideline 3C
